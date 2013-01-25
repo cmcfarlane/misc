@@ -10,8 +10,8 @@ misc
    7. stray dogs,
    8. those included in the present classification,
    9. those that tremble as if they were mad,
-  10. innumerable ones,
-  11. those drawn with a very fine camelhair brush,
-  12. others,
-  13. those that have just broken a flower vase,
-  14. those that from a long way off look like flies.
+   10. innumerable ones,
+   11. those drawn with a very fine camelhair brush,
+   12. others,
+   13. those that have just broken a flower vase,
+   14. those that from a long way off look like flies.
