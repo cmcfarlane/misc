@@ -3,7 +3,7 @@ Loiselle, André. "Cinéma du Grand Guignol: Theatricality in the Horror Film." 
 
 55:  "use theatricality to foreground certain character types, expose structural paradoxes, and highlight modes of performance common to the cinematic tale of terror."
 
-Seems to use fear, horror, terror, gore interchangeably in the introduction.
+> Seems to use fear, horror, terror, gore interchangeably in the introduction.
 
 56:  "the horror films considered here the theatre is visualized in *concrete terms* as the instigator of cinematic revenge."
 
